@@ -21,7 +21,7 @@
 |12   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/flickque/pen/xxZjyeg) | [async_tasks_code](https://github.com/Flickque/ZakharWebLabs/tree/master/async_tasks/asycn.js) |
 |13  | [BABL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_a172a) | [babl_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/babl/babl-002.js) |
 |14  | [EVNT-002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/custom_b1137) | [evnt_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/evnt/evnt-002.js) |
-|15  | [YOU](https://kodaktor.ru/evnt_002) | [GithubPages](https://flickque.github.io/ZakharWebLabs/you/) | [you_code](https://github.com/Flickque/ZakharWebLabs/blob/master/you/) |
+|15  | [YOU](https://kodaktor.ru/evnt_002) | [GithubPages](https://flickque.github.io/ZakharWebLabs/you/) | [you_code](https://github.com/Flickque/ZakharWebLabs/tree/master/you/) |
 
 
 ## Необязательные задания
