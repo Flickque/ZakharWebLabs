@@ -4,8 +4,6 @@
 
 
 ## Обязательные [задания](https://github.com/GossJS/ifmo-2019/tree/tasks-2020-spring) 
-## Cart
-1. [Cart](http://medical.ralms.ru/)
 
 |№.   | Задание | Решение | Исходный код |
 |-----|---------|---------|--------------|
@@ -19,7 +17,7 @@
 |8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_dcdee) | [func_008_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-008.js) |
 |9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_911ce) | [func_009_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-009.js) |
 |10   | [FUNC_010](https://kodaktor.ru/func_010) | [Kodactor](https://kodaktor.ru/func_e0ba2) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-0010.js) |
-|11   | [CART](https://kodaktor.ru/g/cart) | [URL](http://medical.ralms.ru/) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
+|11   | [CART](https://kodaktor.ru/g/cart) | [URL](http://medical.ralms.ru/) | [cart_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
 
 
 ## Необязательные задания
