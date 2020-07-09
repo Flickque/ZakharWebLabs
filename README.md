@@ -22,8 +22,13 @@
 |13  | [BABL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_a172a) | [babl_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/babl/babl-002.js) |
 |14  | [EVNT-002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/custom_b1137) | [evnt_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/evnt/evnt-002.js) |
 |15  | [YOU](https://kodaktor.ru/evnt_002) | [GithubPages](https://flickque.github.io/ZakharWebLabs/you/) | [you_code](https://github.com/Flickque/ZakharWebLabs/tree/master/you/) |
-
-
+|16   | [FRMW_001](https://kodaktor.ru/frmw_001) | [Kodactor](https://kodaktor.ru/frmw_ad9b6) | [frmw_001_code](https://github.com/Flickque/ZakharWebLabs/blob/master/frmw/frmw-001.js) |
+|17   | [FRMW_002](https://kodaktor.ru/frmw_002) | [Kodactor](https://kodaktor.ru/vue_starter_ed33b) | [frmw_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/frmw/frmw-002.js) |
+|18   | [FRMW_003](https://kodaktor.ru/frmw_003) | [GithubPages](https://flickque.github.io/ZakharWebLabs/frmw/frmw-003/dist/) | [frmw_003_code](https://github.com/Flickque/ZakharWebLabs/tree/master/frmw/frmw-003) |
+|19   | [FRMW_004](https://kodaktor.ru/frmw_004) | [GithubPages](https://flickque.github.io/ZakharWebLabs/frmw/frmw-004/dist/) | [frmw_004_code](https://github.com/Flickque/ZakharWebLabs/tree/master/frmw/frmw-004) |
+|20   | [FRMW_005](https://kodaktor.ru/frmw_005) | [Kodactor](https://kodaktor.ru/jsmixer_bd0f7) | [frmw_005_code](https://github.com/Flickque/ZakharWebLabs/blob/master/frmw-005.js) |
+|21  | [FRMW_006](https://kodaktor.ru/frmw_006) | [GithubPages](https://flickque.github.io/ZakharWebLabs/frmw/elm/) | [frmw_006_code](https://github.com/Flickque/ZakharWebLabs/tree/master/frmw/elm/) |
+|22  | [FRMW_007](https://kodaktor.ru/frmw_007) | [Kodactor](https://kodaktor.ru/jsmixer_bd0f7) | [frmw_007_code](https://github.com/Flickque/ZakharWebLabs/blob/master/frmw-005.js) 
 ## Необязательные задания
 1. [TERN-001](https://kodaktor.ru/tern_74f1f)
 =)
