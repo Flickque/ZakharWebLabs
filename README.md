@@ -29,6 +29,7 @@
 |20   | [FRMW_005](https://kodaktor.ru/frmw_005) | [Kodactor](https://kodaktor.ru/jsmixer_bd0f7) | [frmw_005_code](https://github.com/Flickque/ZakharWebLabs/blob/master/frmw-005.js) |
 |21  | [FRMW_006](https://kodaktor.ru/frmw_006) | [GithubPages](https://flickque.github.io/ZakharWebLabs/frmw/elm/) | [frmw_006_code](https://github.com/Flickque/ZakharWebLabs/tree/master/frmw/elm/) |
 |22  | [FRMW_007](https://kodaktor.ru/frmw_007) | [Kodactor](https://flickque.github.io/ZakharWebLabs/frmw/frmw-007/) | [frmw_007_code](https://github.com/Flickque/ZakharWebLabs/tree/master/frmw/frmw-007) |
+
 ## Необязательные задания
 1. [TERN-001](https://kodaktor.ru/tern_74f1f)
 =)
