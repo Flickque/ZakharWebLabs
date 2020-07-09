@@ -7,18 +7,21 @@
 ## Cart
 1. [Cart](http://medical.ralms.ru/)
 
-### Func 001-010
-1. [Func-001](https://kodaktor.ru/func_001_5b0ee)
-1. [Func-002](https://kodaktor.ru/func_ea09d)
-1. [Func-003](https://kodaktor.ru/func_ab491)
-1. [Func-004](https://kodaktor.ru/func_2c913)
-1. [Func-005](https://kodaktor.ru/func_b06e8)
-1. [Func-006](https://kodaktor.ru/func_7d200)
-1. [Func-007](https://kodaktor.ru/func_2ad67)
-1. [Func-008](https://kodaktor.ru/func_dcdee)
-1. [Func-009](https://kodaktor.ru/func_911ce)
-1. [Func-010](https://kodaktor.ru/func_e0ba2)
+|№.   | Задание | Решение | Исходный код |
+|-----|---------|---------|--------------|
+|1    | [FUNC_001](https://kodaktor.ru/func_001) | [Kodactor](https://kodaktor.ru/func_001_5b0ee) | [func_001_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-001.js) |
+|2    | [FUNC_002](https://kodaktor.ru/func_002) | [Kodactor](https://kodaktor.ru/func_ea09d) | [func_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-002.js) |
+|3    | [FUNC_003](https://kodaktor.ru/func_003) | [Kodactor](https://kodaktor.ru/func_ab491) | [func_003_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-003.js) |
+|4    | [FUNC_004](https://kodaktor.ru/func_004) | [Kodactor](https://kodaktor.ru/func_2c913) | [func_004_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-004.js) |
+|5    | [FUNC_005](https://kodaktor.ru/func_005) | [Kodactor](https://kodaktor.ru/func_b06e8) | [func_005_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-005.js) |
+|6    | [FUNC_006](https://kodaktor.ru/func_006) | [Kodactor](https://kodaktor.ru/func_7d200) | [func_006_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-006.js) |
+|7    | [FUNC_007](https://kodaktor.ru/func_007) | [Kodactor](https://kodaktor.ru/func_2ad67) | [func_007_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-007.js) |
+|8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_dcdee) | [func_008_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-008.js) |
+|9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_911ce) | [func_009_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-009.js) |
+|10   | [FUNC_010](https://kodaktor.ru/func_010) | [Kodactor](https://kodaktor.ru/func_e0ba2) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-0010.js) |
+|11   | [CART](https://kodaktor.ru/g/cart) | [URL](http://medical.ralms.ru/) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
 
 
 ## Необязательные задания
 1. [TERN-001](https://kodaktor.ru/tern_74f1f)
+=)
