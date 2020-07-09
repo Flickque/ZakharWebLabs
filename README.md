@@ -17,7 +17,8 @@
 |8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_dcdee) | [func_008_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-008.js) |
 |9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_911ce) | [func_009_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-009.js) |
 |10   | [FUNC_010](https://kodaktor.ru/func_010) | [Kodactor](https://kodaktor.ru/func_e0ba2) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-0010.js) |
-|11   | [CART](https://kodaktor.ru/g/cart) | [URL](http://medical.ralms.ru/) | [cart_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
+|11   | [CART](https://kodaktor.ru/g/cart) | [GithubPages](https://flickque.github.io/ZakharWebLabs/cart/dist/) | [cart_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
+|11   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/flickque/pen/xxZjyeg) | [async_tasks_code](https://github.com/Flickque/ZakharWebLabs/tree/master/async_tasks/asycn.js) |
 
 
 ## Необязательные задания
