@@ -18,7 +18,10 @@
 |9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_911ce) | [func_009_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-009.js) |
 |10   | [FUNC_010](https://kodaktor.ru/func_010) | [Kodactor](https://kodaktor.ru/func_e0ba2) | [func_010_code](https://github.com/Flickque/ZakharWebLabs/blob/master/func/func-0010.js) |
 |11   | [CART](https://kodaktor.ru/g/cart) | [GithubPages](https://flickque.github.io/ZakharWebLabs/cart/dist/) | [cart_code](https://github.com/Flickque/ZakharWebLabs/tree/master/cart) |
-|11   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/flickque/pen/xxZjyeg) | [async_tasks_code](https://github.com/Flickque/ZakharWebLabs/tree/master/async_tasks/asycn.js) |
+|12   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/flickque/pen/xxZjyeg) | [async_tasks_code](https://github.com/Flickque/ZakharWebLabs/tree/master/async_tasks/asycn.js) |
+|13  | [BABL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_a172a) | [babl_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/babl/babl-002.js) |
+|14  | [EVNT-002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/custom_b1137) | [evnt_002_code](https://github.com/Flickque/ZakharWebLabs/blob/master/evnt/evnt-002.js) |
+|15  | [YOU](https://kodaktor.ru/evnt_002) | [GithubPages](https://flickque.github.io/ZakharWebLabs/you/) | [you_code](https://github.com/Flickque/ZakharWebLabs/blob/master/you/) |
 
 
 ## Необязательные задания
